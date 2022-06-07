@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"EnglishWords"},{"p":"<Unnamed>","l":"ExtendedEnglishWords"},{"p":"<Unnamed>","l":"FranchWords"},{"p":"<Unnamed>","l":"StartGame"},{"p":"<Unnamed>","l":"WordleGUI"}];updateSearchResults();
